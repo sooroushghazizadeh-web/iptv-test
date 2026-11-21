@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="France 24" group-title="News",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-name="NASA TV" group-title="News",NASA TV
+https://ntv1.akamaized.net/hls/live/2017970/NASA-NTV1-Public/master.m3u8
